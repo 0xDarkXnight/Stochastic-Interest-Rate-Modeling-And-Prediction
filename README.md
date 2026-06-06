@@ -1,8 +1,6 @@
 # Stochastic Interest Rate Modelling: CIR Implementation & Extension
 
-A complete quantitative finance research notebook implementing, calibrating,
-and extending the Cox-Ingersoll-Ross (CIR) short-rate model on real historical
-yield curve data.
+Built and calibrated a stochastic interest rate forecasting framework using the Cox–Ingersoll–Ross (CIR) model, reconstructing multi-maturity yield curves from short-rate observations and extending the baseline model to improve out-of-sample predictive accuracy.
 
 ## Objective
 
